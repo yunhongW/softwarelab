@@ -1,0 +1,16 @@
+﻿  Tourism.cpp
+C:\Users\吴习凡\Desktop\code 集合\Project67\Graph.h(137,26): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\吴习凡\Desktop\code 集合\Project67\Graph.h(169,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\吴习凡\Desktop\code 集合\Project67\Graph.h(137,26): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\吴习凡\Desktop\code 集合\Project67\Graph.h(169,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Project67.vcxproj -> C:\Users\吴习凡\Desktop\code 集合\Project67\x64\Debug\Project67.exe
